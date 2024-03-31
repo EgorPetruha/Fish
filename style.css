@@ -1,0 +1,35 @@
+/*font start*/
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.play-regular {
+  font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.play-bold {
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/*font end*/
+
+/*Онуляцыя Отступов старт*/
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+/*Онуляцыя Отступов конец*/
+
+body {
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/*Header start*/
+
+/*Header end*/
